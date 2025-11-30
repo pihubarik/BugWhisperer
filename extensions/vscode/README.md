@@ -1,0 +1,2 @@
+# BugWhisperer VS Code Extension
+
